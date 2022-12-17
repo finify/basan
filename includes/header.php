@@ -11,6 +11,9 @@ include('settings.php');
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Roboto+Mono:300,400,500"> 
     <link rel="stylesheet" href="fonts/icomoon/style.css">
 
+    <!-- site icons -->
+    <link rel="icon" href="images/basanfavicon.png" type="image/png"/>
+
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/jquery-ui.css">
@@ -69,7 +72,7 @@ include('settings.php');
         <div class="container py-1">
           <div class="row align-items-center">
             <div class="col-2">
-              <h2 class="mb-0 site-logo"><a href="index.php"><img src="images/BASAN-3.png" width="200px" alt=""></a></h2>
+              <h2 class="mb-0 site-logo"><a href="index.php"><img src="images/basangroup_logo.png" width="200px" alt=""></a></h2>
             </div>
             <div class="col-10">
               <nav class="site-navigation text-right" role="navigation">

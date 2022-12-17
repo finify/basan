@@ -1,69 +1,32 @@
 
     <footer class="site-footer">
       <div class="container">
-        
-
         <div class="row">
-          <div class="col-lg-7">
+          <div class="col-lg-4">
             <div class="row">
-              <div class="col-6 col-md-4 col-lg-4 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Company</h3>
-                <ul class="list-unstyled">
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">Approach</a></li>
-                  <li><a href="#">Sustainability</a></li>
-                  <li><a href="#">News</a></li>
-                  <li><a href="#">Careers</a></li>
-                </ul>
-              </div>
-              <div class="col-6 col-md-4 col-lg-4 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Navigations</h3>
-                <ul class="list-unstyled">
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">Approach</a></li>
-                  <li><a href="#">Sustainability</a></li>
-                  <li><a href="#">News</a></li>
-                  <li><a href="#">Careers</a></li>
-                </ul>
-              </div>
-              <div class="col-6 col-md-4 col-lg-4 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Quick Menu</h3>
-                <ul class="list-unstyled">
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Services</a></li>
-                  <li><a href="#">Approach</a></li>
-                  <li><a href="#">Sustainability</a></li>
-                  <li><a href="#">News</a></li>
-                  <li><a href="#">Careers</a></li>
-                </ul>
+              <div class="col-12">
+                <img src="images/basangroup_logo1.png" width="50%" alt="">
+                <p>WE ARE AN INDIGENOUS ENERGY COMPANY, WITH A FRESH AND INNOVATIVE APPROACH TO PROVIDING GAS AND POWER SOLUTIONS.</p>
               </div>
             </div>
           </div>
-          <div class="col-lg-5">
+          <div class="col-lg-4">
             <div class="row mb-5">
-              <div class="col-md-12"><h3 class="footer-heading mb-4">Europe</h3></div>
-              <div class="col-md-6">
-                <p>London - 2398 <br> 10 Japson Street</p>    
-              </div>
-              <div class="col-md-6">
-                Tel. + (123) 3240-345-9348 <br>
-                Mail. europe@youdomain.com
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="col-md-12"><h3 class="footer-heading mb-4">USA</h3></div>
-              <div class="col-md-6">
-                <p>New York - 2398 <br> 10 Hadson Carl Street</p>    
-              </div>
-              <div class="col-md-6">
-                Tel. + (123) 3240-345-9348 <br>
-                Mail. info@basangroup.com
+              <div class="col-md-12">
+                  <h3 class="footer-heading mb-4">Links</h3>
+                  <ul class="list-unstyled">
+                     <li><a href="index.php">Home</a></li>
+                     <li><a href="about.php">About</a></li>
+                     <li><a href="contact.php">Contact Us</a></li>
+                  </ul>
               </div>
             </div>
             
+          </div>
+          <div class="col-lg-4">
+            <p>London - 2398 <br> 10 Japson Street</p>
+            Tel. + (123) 3240-345-9348 <br>
+            Mail. europe@youdomain.com
           </div>
         </div>
         <div class="row pt-5 mt-5 text-center">
