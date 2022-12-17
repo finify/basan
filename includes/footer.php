@@ -10,7 +10,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-6">
+          <div class="col-lg-4 col-4">
             <div class="row mb-5">
               <div class="col-md-12">
                   <h3 class="footer-heading mb-4">Links</h3>
@@ -23,7 +23,7 @@
             </div>
             
           </div>
-          <div class="col-lg-4 col-6">
+          <div class="col-lg-4 col-8">
             <p>London - 2398 <br> 10 Japson Street</p>
             Tel. + (123) 3240-345-9348 <br>
             Mail. europe@youdomain.com
