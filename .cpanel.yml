@@ -1,11 +1,10 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/kion16295365/public_html/
-    - /bin/cp -R admin $DEPLOYPATH
-    - /bin/cp -R home $DEPLOYPATH
+    - export DEPLOYPATH=/home/openoiip/basangroup.com/
     - /bin/cp -R includes $DEPLOYPATH
-    - /bin/cp -R signup $DEPLOYPATH
-    - /bin/cp -R login $DEPLOYPATH
-    - /bin/cp -R contact.php $DEPLOYPATH
     - /bin/cp -R index.php $DEPLOYPATH
+    - /bin/cp -R about.php $DEPLOYPATH
+    - /bin/cp -R contact.php $DEPLOYPATH
+    - /bin/cp -R news.php $DEPLOYPATH
+    - /bin/cp -R services.php $DEPLOYPATH
