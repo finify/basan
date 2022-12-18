@@ -43,7 +43,7 @@ include('includes/header.php');
             </div>
           </div>
         </div>
-
+<!-- 
         <div class="row mt-5">
           <div class="col-12 text-center">
             <h2 class="display-5 text-black mb-5">More Peopple</h2>
@@ -104,7 +104,7 @@ include('includes/header.php');
               </div>
             </a>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
 
@@ -195,7 +195,7 @@ include('includes/header.php');
     </div>
     
 
-    <div class="promo py-5 bg-primary">
+    <div class="promo py-5" style="background-color:teal; color:white;">
       <div class="container text-center">
         <h2 class="d-block mb-0 font-weight-light text-white"><a href="#" class="text-white d-block">Contact us for quotations</a></h2>
       </div>

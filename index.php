@@ -9,7 +9,7 @@ include('includes/header.php');
             <div class="col-md-10">
               <h1 class="mb-5">Specialized Technical <strong>Solutions</strong></h1>
               <p>
-                <a href="contact.php" class="btn btn-primary py-3 px-5 rounded-0">Get In Touch</a>
+                <a href="contact.php" class="btn py-3 px-5 rounded-0" style="background-color:teal; color:white;">Get In Touch</a>
                 
               </p>
             </div>
@@ -23,7 +23,7 @@ include('includes/header.php');
             <div class="col-md-10">
               <h1 class="mb-5">Specialized Technical <strong>Solutions</strong></h1>
               <p>
-              <a href="contact.php" class="btn btn-primary py-3 px-5 rounded-0">Get In Touch</a>
+              <a href="contact.php" class="btn py-3 px-5 rounded-0" style="background-color:teal; color:white;">Get In Touch</a>
               </p>
             </div>
           </div>
@@ -38,7 +38,7 @@ include('includes/header.php');
           <div class="col-12 text-center mb-5"><h2 class="text-black h6 font-weight-bold text-uppercase" data-aos="fade">Let the number speaks for us.</h2></div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="0">
             <div class="d-flex align-items-center">
-              <div class="mr-3"><span class="flaticon-worker display-3 text-primary"></span></div>
+              <div class="mr-3"><span class="flaticon-worker display-3" style="color:teal;"></span></div>
               <div class="">
                 <h2 class="text-black">70+</h2> <strong class="text-black">Highly Specialized</strong> Employees
               </div>
@@ -47,7 +47,7 @@ include('includes/header.php');
 
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
             <div class="d-flex align-items-center">
-              <div class="mr-3"><span class="flaticon-industry display-3 text-primary"></span></div>
+              <div class="mr-3"><span class="flaticon-industry display-3" style="color:teal;"></span></div>
               <div class="">
                 <h2 class="text-black">5+</h2> <strong class="text-black">Leading</strong> Industries
               </div>
@@ -56,7 +56,7 @@ include('includes/header.php');
           
           <div class="col-md-6 col-lg-4 mb-0 mb-lg-0" data-aos="fade" data-aos-delay="300">
             <div class="d-flex align-items-center">
-              <div class="mr-3"><span class="flaticon-excavator display-3 text-primary"></span></div>
+              <div class="mr-3"><span class="flaticon-excavator display-3" style="color:teal;"></span></div>
               <div class="">
                 <h2 class="text-black">2900+</h2> <strong class="text-black">Finished</strong> Projects
               </div>
@@ -226,7 +226,7 @@ The environmental impact of SNG depends on two main factors: the feedstock used 
     </div> -->
       
 
-    <div class="promo py-5 bg-primary" data-aos="fade">
+    <div class="promo py-5" style="background-color:teal;" data-aos="fade">
       <div class="container text-center">
         <h2 class="d-block mb-0 font-weight-light text-white"><a href="#" class="text-white d-block">Contact us for quotations</a>  <a href="#" class="btn btn-white btn-outline-white py-3 px-5 rounded-0">Get In Touch</a></h2>
       </div>

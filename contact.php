@@ -80,7 +80,7 @@ include('includes/header.php');
     </div>
 
     
-    <div class="promo py-5 bg-primary" data-aos="fade">
+    <div class="promo py-5" style="background-color:teal;" data-aos="fade">
       <div class="container text-center">
         <h2 class="d-block mb-0 font-weight-light text-white"><a href="#" class="text-white d-block">Visit Our Office</a></h2>
       </div>
