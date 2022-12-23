@@ -5,12 +5,80 @@ include('includes/header.php');
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-7 text-center">
-            <h1 class="mb-5">The <strong>Company</strong></h1>
+            <h1 class="mb-5">About <strong>Basangroup</strong></h1>
           </div>
         </div>
       </div>
     </div>  
 
+    <div class="site-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 bg-image bg-sm-height mb-5 mb-md-0 order-md-2" style="background-image: url('images/img_1_colored.jpg');" data-aos="fade-up"></div>
+          <div class="col-md-6 pr-md-5 order-md-1">
+            <h3 class="display-5 line-height-xs text-black mb-4"><strong>WE ARE AN INDIGENOUS ENERGY COMPANY, WITH A FRESH AND INNOVATIVE APPROACH TO PROVIDING GAS AND POWER SOLUTIONS.</strong></h3>
+            <h4>Together, let's adopt useful gestures!</h4>
+            <p class="mb-4">Natural Gas continues to play a vital role in the global drive towards a low carbon economy. The share of natural gas in global power generation continues to increase at steady levels, with natural gas estimated to be the most dominant fossil fuel over the next century.
+Given the richness of Nigeria’s gas reserves, Basan Energy group is confident that sustained gas expansion and utilization is now key to driving industrialization and energy sustainability in Nigeria. We are therefore poised to bring the future much closer to our reality! We are therefore poised to bring the future much closer to reality.</p>
+            <!-- <ul class="site-block-check">
+              <li>Magnam iure fugit recusandae</li>
+              <li>Officiis laboriosam repudiandae</li>
+              <li>Quis nostrum numquam</li>
+            </ul>
+            <p><a href="#" class="btn btn-outline-primary btn-sm rounded-0 p-2 px-4">Read More</a></p> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="site-section bg-light">
+      <div class="container">
+        <!-- <div class="row mb-5 justify-content-center">
+          <div class="col-md-6 text-center">
+            <h2 class="display-4 text-black mb-5">See Our <strong>Services</strong></h2>
+          </div>
+        </div> -->
+        <div class="row">
+          <div class="col-md-6 col-lg-6">
+            <div class="site-block-feature-2 d-flex rounded mb-5">
+              <div class="mr-3">
+                <span class="icon flaticon-agreement font-weight-light "></span>
+              </div>
+              <div class="text">
+                <h3 style="font-size: xx-large;">Our Vision</h3>
+                <p>We will deliver world-class performance, driving sustainable economic progress, industrial and human capital development throughout the sectors in which we operate.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-6">
+            <div class="site-block-feature-2 d-flex rounded mb-5">
+              <div class="mr-3">
+                <span class="icon flaticon-gears font-weight-light "></span>
+              </div>
+              <div class="text">
+                <h3 style="font-size: xx-large;">Our Mission</h3>
+                <p>We are building a group of smart companies that will be operated and managed on best global standards and practices; driven by a commitment to delivering long-term value.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    
+
+    <div class="promo py-5" style="background-color:teal; color:white;">
+      <div class="container text-center">
+      <h5 class="d-block mb-0 font-weight-light text-white">CORE VALUES</h5>
+        <h2 class="d-block mb-0 font-weight-light text-white"><a href="#" class="text-white d-block">
+Our Quality Statement</a></h2>
+        <p>Basan Energy Group focuses on teamwork, professionalism, hard-work and commitment to customers’ satisfaction. Basan Energy Group is committed to delivering exceptional solutions that meet and even surpass its customer’s requirements, through the work of her highly trained and dedicated personnel and continuous conformity with rules, regulations and ethical standards.</p>
+      </div>
+    </div>
 
     <div class="site-section section-about">
       <div class="container">
@@ -105,99 +173,6 @@ include('includes/header.php');
             </a>
           </div>
         </div> -->
-      </div>
-    </div>
-
-    <div class="site-section bg-light">
-      <div class="container">
-        <div class="row mb-5 justify-content-center">
-          <div class="col-md-6 text-center">
-            <h2 class="display-4 text-black mb-5">See Our <strong>Services</strong></h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-4">
-            <div class="site-block-feature-2 d-flex rounded mb-5">
-              <div class="mr-3">
-                <span class="icon flaticon-agreement font-weight-light "></span>
-              </div>
-              <div class="text">
-                <h3>Sunt illum fugit doloremque</h3>
-                <p>Sunt illum fugit doloremque eaque omnis dolor sint fuga eligendi quis magnam Laboriosam facilis.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4">
-            <div class="site-block-feature-2 d-flex rounded mb-5">
-              <div class="mr-3">
-                <span class="icon flaticon-gears font-weight-light "></span>
-              </div>
-              <div class="text">
-                <h3>Sunt illum fugit doloremque</h3>
-                <p>Sunt illum fugit doloremque eaque omnis dolor sint fuga eligendi quis magnam Laboriosam facilis.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4">
-            <div class="site-block-feature-2 d-flex rounded mb-5">
-              <div class="mr-3">
-                <span class="icon flaticon-excavator font-weight-light "></span>
-              </div>
-              <div class="text">
-                <h3>Sunt illum fugit doloremque</h3>
-                <p>Sunt illum fugit doloremque eaque omnis dolor sint fuga eligendi quis magnam Laboriosam facilis.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4">
-            <div class="site-block-feature-2 d-flex rounded mb-5">
-              <div class="mr-3">
-                <span class="icon flaticon-industrial-robot font-weight-light "></span>
-              </div>
-              <div class="text">
-                <h3>Sunt illum fugit doloremque</h3>
-                <p>Sunt illum fugit doloremque eaque omnis dolor sint fuga eligendi quis magnam Laboriosam facilis.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4">
-            <div class="site-block-feature-2 d-flex rounded mb-5">
-              <div class="mr-3">
-                <span class="icon flaticon-industry font-weight-light "></span>
-              </div>
-              <div class="text">
-                <h3>Sunt illum fugit doloremque</h3>
-                <p>Sunt illum fugit doloremque eaque omnis dolor sint fuga eligendi quis magnam Laboriosam facilis.</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4">
-            <div class="site-block-feature-2 d-flex rounded mb-5">
-              <div class="mr-3">
-                <span class="icon flaticon-worker font-weight-light "></span>
-              </div>
-              <div class="text">
-                <h3>Sunt illum fugit doloremque</h3>
-                <p>Sunt illum fugit doloremque eaque omnis dolor sint fuga eligendi quis magnam Laboriosam facilis.</p>
-              </div>
-            </div>
-          </div>
-
-          
-
-        </div>
-      </div>
-    </div>
-    
-
-    <div class="promo py-5" style="background-color:teal; color:white;">
-      <div class="container text-center">
-        <h2 class="d-block mb-0 font-weight-light text-white"><a href="#" class="text-white d-block">Contact us for quotations</a></h2>
       </div>
     </div>
     

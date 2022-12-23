@@ -46,7 +46,7 @@ include('includes/header.php');
 
               <div class="row form-group">
                 <div class="col-md-12">
-                  <input type="submit" value="Send" class="btn btn-primary">
+                  <input type="submit" value="Send" class="btn btn-primary"  style="background-color:teal; border:1px solid teal;">
                 </div>
               </div>
 
@@ -58,14 +58,14 @@ include('includes/header.php');
             <div class="p-4 mb-3 bg-white">
               <h3 class="h5 text-black mb-3">Contact Info</h3>
               <p class="mb-0 font-weight-bold">Address</p>
-              <p class="mb-4">203 Fake St. Mountain View, San Francisco, California, USA</p>
+              <!-- <p class="mb-4">203 Fake St. Mountain View, San Francisco, California, USA</p> -->
 
               <p class="mb-0 font-weight-bold">Phone</p>
-              <p class="mb-4"><a href="#">+234 802 291 0137</a></p>
+              <p class="mb-4"><a href="#" style="color:teal;">+234 802 291 0137</a></p>
 
               <p class="mb-0 font-weight-bold">Email Address</p>
-              <p class="mb-0"><a href="#">info@basangroup.com</a></p>
-              <p class="mb-0"><a href="#">tundebabaagba@gmail.com</a></p>
+              <p class="mb-0"><a href="#"  style="color:teal;">info@basangroup.com</a></p>
+              <p class="mb-0"><a href="#"  style="color:teal;">tundebabaagba@gmail.com</a></p>
 
             </div>
             

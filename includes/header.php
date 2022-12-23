@@ -55,11 +55,11 @@ include('settings.php');
             </div>
             <div class="col-6">
               <div class="d-flex ml-auto">
-                <a href="#" class="d-flex align-items-center ml-auto mr-4">
+                <a href="mailto:info@basangroup.com" class="d-flex align-items-center ml-auto mr-4">
                   <span class="icon-phone mr-2"></span>
                   <span class="d-none d-md-inline-block">info@basangroup.com</span>
                 </a>
-                <a href="#" class="d-flex align-items-center">
+                <a href="tel:+2348022910137" class="d-flex align-items-center">
                   <span class="icon-envelope mr-2"></span>
                   <span class="d-none d-md-inline-block">+234 802 291 0137</span>
                 </a>

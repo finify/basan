@@ -228,7 +228,7 @@ The environmental impact of SNG depends on two main factors: the feedstock used 
 
     <div class="promo py-5" style="background-color:teal;" data-aos="fade">
       <div class="container text-center">
-        <h2 class="d-block mb-0 font-weight-light text-white"><a href="#" class="text-white d-block">Contact us for quotations</a>  <a href="#" class="btn btn-white btn-outline-white py-3 px-5 rounded-0">Get In Touch</a></h2>
+        <h2 class="d-block mb-0 font-weight-light text-white"><a href="#" class="text-white d-block">Contact us for quotations</a>  <a href="contact.php" class="btn btn-white btn-outline-white py-3 px-5 rounded-0">Get In Touch</a></h2>
       </div>
     </div>
 
